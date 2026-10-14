@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Jakob 👋</h1>
-<h3 align="center">Full-Stack Software Engineer @ ECOVIS KSO</h3>
+<h3 align="center">Full-Stack Software Engineer @ ECOVIS KSO & WILIEPRO</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Frontend%2C+Backend%2C+and+everything+in+between;It+works+on+my+machine+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 ```js
 const jakob = {
   role:        "Full-Stack Software Engineer",
-  company:     "ECOVIS KSO",
+  companies:   ["ECOVIS KSO", "WILIEPRO"],
   education:   "B.Sc. @ University of Cologne 🎓",
   basedIn:     "Köln, Germany 🇩🇪",
   loves:       ["coding", "dark mode", "console.log() driven development"],
@@ -22,7 +22,7 @@ const jakob = {
 };
 ```
 
-- 🔭 Building full-stack applications at **ECOVIS KSO**
+- 🔭 Building full-stack applications at **ECOVIS KSO** and **WILIEPRO**
 - 🎓 Bachelor's degree from the **University of Cologne**
 - 🌱 Always learning new frameworks (and forgetting old ones)
 - 💬 Ask me about anything frontend or backend
@@ -56,9 +56,9 @@ const jakob = {
 
 **Backend**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Data & Tools**
 
